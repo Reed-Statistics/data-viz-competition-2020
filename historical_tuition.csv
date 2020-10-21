@@ -1,0 +1,271 @@
+"","type","year","tuition_type","tuition_cost"
+"1","All Institutions","1985-86","All Constant",10893
+"2","All Institutions","1985-86","4 Year Constant",12274
+"3","All Institutions","1985-86","2 Year Constant",7508
+"4","All Institutions","1985-86","All Current",4885
+"5","All Institutions","1985-86","4 Year Current",5504
+"6","All Institutions","1985-86","2 Year Current",3367
+"7","All Institutions","1995-96","All Constant",13822
+"8","All Institutions","1995-96","4 Year Constant",16224
+"9","All Institutions","1995-96","2 Year Constant",7421
+"10","All Institutions","1995-96","All Current",8800
+"11","All Institutions","1995-96","4 Year Current",10330
+"12","All Institutions","1995-96","2 Year Current",4725
+"13","All Institutions","2000-01","All Constant",14995
+"14","All Institutions","2000-01","4 Year Constant",17909
+"15","All Institutions","2000-01","2 Year Constant",7576
+"16","All Institutions","2000-01","All Current",10820
+"17","All Institutions","2000-01","4 Year Current",12922
+"18","All Institutions","2000-01","2 Year Current",5466
+"19","All Institutions","2001-02","All Constant",15497
+"20","All Institutions","2001-02","4 Year Constant",18573
+"21","All Institutions","2001-02","2 Year Constant",7786
+"22","All Institutions","2001-02","All Current",11380
+"23","All Institutions","2001-02","4 Year Current",13639
+"24","All Institutions","2001-02","2 Year Current",5718
+"25","All Institutions","2002-03","All Constant",16008
+"26","All Institutions","2002-03","4 Year Constant",19240
+"27","All Institutions","2002-03","2 Year Constant",8331
+"28","All Institutions","2002-03","All Current",12014
+"29","All Institutions","2002-03","4 Year Current",14439
+"30","All Institutions","2002-03","2 Year Current",6252
+"31","All Institutions","2003-04","All Constant",16891
+"32","All Institutions","2003-04","4 Year Constant",20218
+"33","All Institutions","2003-04","2 Year Constant",8743
+"34","All Institutions","2003-04","All Current",12953
+"35","All Institutions","2003-04","4 Year Current",15505
+"36","All Institutions","2003-04","2 Year Current",6705
+"37","All Institutions","2004-05","All Constant",17460
+"38","All Institutions","2004-05","4 Year Constant",20899
+"39","All Institutions","2004-05","2 Year Constant",8982
+"40","All Institutions","2004-05","All Current",13793
+"41","All Institutions","2004-05","4 Year Current",16510
+"42","All Institutions","2004-05","2 Year Current",7095
+"43","All Institutions","2005-06","All Constant",17845
+"44","All Institutions","2005-06","4 Year Constant",21281
+"45","All Institutions","2005-06","2 Year Constant",8824
+"46","All Institutions","2005-06","All Current",14634
+"47","All Institutions","2005-06","4 Year Current",17451
+"48","All Institutions","2005-06","2 Year Current",7236
+"49","All Institutions","2006-07","All Constant",18404
+"50","All Institutions","2006-07","4 Year Constant",21956
+"51","All Institutions","2006-07","2 Year Constant",8874
+"52","All Institutions","2006-07","All Current",15483
+"53","All Institutions","2006-07","4 Year Current",18471
+"54","All Institutions","2006-07","2 Year Current",7466
+"55","All Institutions","2007-08","All Constant",18604
+"56","All Institutions","2007-08","4 Year Constant",22194
+"57","All Institutions","2007-08","2 Year Constant",8754
+"58","All Institutions","2007-08","All Current",16231
+"59","All Institutions","2007-08","4 Year Current",19363
+"60","All Institutions","2007-08","2 Year Current",7637
+"61","All Institutions","2008-09","All Constant",19321
+"62","All Institutions","2008-09","4 Year Constant",23071
+"63","All Institutions","2008-09","2 Year Constant",9312
+"64","All Institutions","2008-09","All Current",17092
+"65","All Institutions","2008-09","4 Year Current",20409
+"66","All Institutions","2008-09","2 Year Current",8238
+"67","All Institutions","2009-10","All Constant",19761
+"68","All Institutions","2009-10","4 Year Constant",23652
+"69","All Institutions","2009-10","2 Year Constant",9562
+"70","All Institutions","2009-10","All Current",17650
+"71","All Institutions","2009-10","4 Year Current",21126
+"72","All Institutions","2009-10","2 Year Current",8541
+"73","All Institutions","2010-11","All Constant",20278
+"74","All Institutions","2010-11","4 Year Constant",24227
+"75","All Institutions","2010-11","2 Year Constant",9733
+"76","All Institutions","2010-11","All Current",18475
+"77","All Institutions","2010-11","4 Year Current",22074
+"78","All Institutions","2010-11","2 Year Current",8868
+"79","All Institutions","2011-12","All Constant",20688
+"80","All Institutions","2011-12","4 Year Constant",24537
+"81","All Institutions","2011-12","2 Year Constant",9966
+"82","All Institutions","2011-12","All Current",19401
+"83","All Institutions","2011-12","4 Year Current",23011
+"84","All Institutions","2011-12","2 Year Current",9347
+"85","All Institutions","2012-13","All Constant",21222
+"86","All Institutions","2012-13","4 Year Constant",25037
+"87","All Institutions","2012-13","2 Year Constant",10041
+"88","All Institutions","2012-13","All Current",20233
+"89","All Institutions","2012-13","4 Year Current",23871
+"90","All Institutions","2012-13","2 Year Current",9573
+"91","All Institutions","2013-14","All Constant",21682
+"92","All Institutions","2013-14","4 Year Constant",25509
+"93","All Institutions","2013-14","2 Year Constant",10215
+"94","All Institutions","2013-14","All Current",20995
+"95","All Institutions","2013-14","4 Year Current",24701
+"96","All Institutions","2013-14","2 Year Current",9891
+"97","All Institutions","2014-15","All Constant",22278
+"98","All Institutions","2014-15","4 Year Constant",26051
+"99","All Institutions","2014-15","2 Year Constant",10409
+"100","All Institutions","2014-15","All Current",21729
+"101","All Institutions","2014-15","4 Year Current",25409
+"102","All Institutions","2014-15","2 Year Current",10153
+"103","All Institutions","2015-16","All Constant",22852
+"104","All Institutions","2015-16","4 Year Constant",26613
+"105","All Institutions","2015-16","2 Year Constant",10599
+"106","All Institutions","2015-16","All Current",22439
+"107","All Institutions","2015-16","4 Year Current",26132
+"108","All Institutions","2015-16","2 Year Current",10407
+"109","All Institutions","2016-17","All Constant",23091
+"110","All Institutions","2016-17","4 Year Constant",26593
+"111","All Institutions","2016-17","2 Year Constant",10598
+"112","All Institutions","2016-17","All Current",23091
+"113","All Institutions","2016-17","4 Year Current",26593
+"114","All Institutions","2016-17","2 Year Current",10598
+"115","Public","1985-86","All Constant",7964
+"116","Public","1985-86","4 Year Constant",8604
+"117","Public","1985-86","2 Year Constant",6647
+"118","Public","1985-86","All Current",3571
+"119","Public","1985-86","4 Year Current",3859
+"120","Public","1985-86","2 Year Current",2981
+"121","Public","1995-96","All Constant",9825
+"122","Public","1995-96","4 Year Constant",11016
+"123","Public","1995-96","2 Year Constant",6623
+"124","Public","1995-96","All Current",6256
+"125","Public","1995-96","4 Year Current",7014
+"126","Public","1995-96","2 Year Current",4217
+"127","Public","2000-01","All Constant",10514
+"128","Public","2000-01","4 Year Constant",11993
+"129","Public","2000-01","2 Year Constant",6706
+"130","Public","2000-01","All Current",7586
+"131","Public","2000-01","4 Year Current",8653
+"132","Public","2000-01","2 Year Current",4839
+"133","Public","2001-02","All Constant",10924
+"134","Public","2001-02","4 Year Constant",12523
+"135","Public","2001-02","2 Year Constant",6996
+"136","Public","2001-02","All Current",8022
+"137","Public","2001-02","4 Year Current",9196
+"138","Public","2001-02","2 Year Current",5137
+"139","Public","2002-03","All Constant",11328
+"140","Public","2002-03","4 Year Constant",13042
+"141","Public","2002-03","2 Year Constant",7464
+"142","Public","2002-03","All Current",8502
+"143","Public","2002-03","4 Year Current",9787
+"144","Public","2002-03","2 Year Current",5601
+"145","Public","2003-04","All Constant",12057
+"146","Public","2003-04","4 Year Constant",13919
+"147","Public","2003-04","2 Year Constant",7840
+"148","Public","2003-04","All Current",9247
+"149","Public","2003-04","4 Year Current",10674
+"150","Public","2003-04","2 Year Current",6012
+"151","Public","2004-05","All Constant",12487
+"152","Public","2004-05","4 Year Constant",14463
+"153","Public","2004-05","2 Year Constant",8070
+"154","Public","2004-05","All Current",9864
+"155","Public","2004-05","4 Year Current",11426
+"156","Public","2004-05","2 Year Current",6375
+"157","Public","2005-06","All Constant",12748
+"158","Public","2005-06","4 Year Constant",14765
+"159","Public","2005-06","2 Year Constant",7916
+"160","Public","2005-06","All Current",10454
+"161","Public","2005-06","4 Year Current",12108
+"162","Public","2005-06","2 Year Current",6492
+"163","Public","2012-13","All Constant",15755
+"164","Public","2012-13","4 Year Constant",18328
+"165","Public","2012-13","2 Year Constant",9363
+"166","Public","2012-13","All Current",15021
+"167","Public","2012-13","4 Year Current",17475
+"168","Public","2012-13","2 Year Current",8927
+"169","Public","2013-14","All Constant",16140
+"170","Public","2013-14","4 Year Constant",18692
+"171","Public","2013-14","2 Year Constant",9587
+"172","Public","2013-14","All Current",15628
+"173","Public","2013-14","4 Year Current",18100
+"174","Public","2013-14","2 Year Current",9283
+"175","Public","2014-15","All Constant",16597
+"176","Public","2014-15","4 Year Constant",19102
+"177","Public","2014-15","2 Year Constant",9828
+"178","Public","2014-15","All Current",16188
+"179","Public","2014-15","4 Year Current",18632
+"180","Public","2014-15","2 Year Current",9585
+"181","Public","2015-16","All Constant",17075
+"182","Public","2015-16","4 Year Constant",19558
+"183","Public","2015-16","2 Year Constant",10097
+"184","Public","2015-16","All Current",16766
+"185","Public","2015-16","4 Year Current",19204
+"186","Public","2015-16","2 Year Current",9914
+"187","Public","2016-17","All Constant",17237
+"188","Public","2016-17","4 Year Constant",19488
+"189","Public","2016-17","2 Year Constant",10091
+"190","Public","2016-17","All Current",17237
+"191","Public","2016-17","4 Year Current",19488
+"192","Public","2016-17","2 Year Current",10091
+"193","Private","1985-86","All Constant",19812
+"194","Private","1985-86","4 Year Constant",20578
+"195","Private","1985-86","2 Year Constant",14521
+"196","Private","1985-86","All Current",8885
+"197","Private","1985-86","4 Year Current",9228
+"198","Private","1985-86","2 Year Current",6512
+"199","Private","1995-96","All Constant",27027
+"200","Private","1995-96","4 Year Constant",27661
+"201","Private","1995-96","2 Year Constant",18161
+"202","Private","1995-96","All Current",17208
+"203","Private","1995-96","4 Year Current",17612
+"204","Private","1995-96","2 Year Current",11563
+"205","Private","2000-01","All Constant",29621
+"206","Private","2000-01","4 Year Constant",30290
+"207","Private","2000-01","2 Year Constant",20660
+"208","Private","2000-01","All Current",21373
+"209","Private","2000-01","4 Year Current",21856
+"210","Private","2000-01","2 Year Current",14907
+"211","Private","2001-02","All Constant",30522
+"212","Private","2001-02","4 Year Constant",31179
+"213","Private","2001-02","2 Year Constant",21550
+"214","Private","2001-02","All Current",22413
+"215","Private","2001-02","4 Year Current",22896
+"216","Private","2001-02","2 Year Current",15825
+"217","Private","2002-03","All Constant",31101
+"218","Private","2002-03","4 Year Constant",31696
+"219","Private","2002-03","2 Year Constant",23656
+"220","Private","2002-03","All Current",23340
+"221","Private","2002-03","4 Year Current",23787
+"222","Private","2002-03","2 Year Current",17753
+"223","Private","2003-04","All Constant",32109
+"224","Private","2003-04","4 Year Constant",32690
+"225","Private","2003-04","2 Year Constant",25503
+"226","Private","2003-04","All Current",24624
+"227","Private","2003-04","4 Year Current",25070
+"228","Private","2003-04","2 Year Current",19558
+"229","Private","2004-05","All Constant",32680
+"230","Private","2004-05","4 Year Constant",33241
+"231","Private","2004-05","2 Year Constant",25694
+"232","Private","2004-05","All Current",25817
+"233","Private","2004-05","4 Year Current",26260
+"234","Private","2004-05","2 Year Current",20297
+"235","Private","2005-06","All Constant",32812
+"236","Private","2005-06","4 Year Constant",33330
+"237","Private","2005-06","2 Year Constant",26101
+"238","Private","2005-06","All Current",26908
+"239","Private","2005-06","4 Year Current",27333
+"240","Private","2005-06","2 Year Current",21404
+"241","Private","2009-10","All Constant",35089
+"242","Private","2009-10","4 Year Constant",35655
+"243","Private","2009-10","2 Year Constant",27389
+"244","Private","2009-10","All Current",31341
+"245","Private","2009-10","4 Year Current",31847
+"246","Private","2009-10","2 Year Current",24463
+"247","Private","2013-14","All Constant",37173
+"248","Private","2013-14","4 Year Constant",37797
+"249","Private","2013-14","2 Year Constant",24652
+"250","Private","2013-14","All Current",35995
+"251","Private","2013-14","4 Year Current",36599
+"252","Private","2013-14","2 Year Current",23870
+"253","Private","2014-15","All Constant",38367
+"254","Private","2014-15","4 Year Constant",38947
+"255","Private","2014-15","2 Year Constant",24941
+"256","Private","2014-15","All Current",37422
+"257","Private","2014-15","4 Year Current",37988
+"258","Private","2014-15","2 Year Current",24327
+"259","Private","2015-16","All Constant",39734
+"260","Private","2015-16","4 Year Constant",40261
+"261","Private","2015-16","2 Year Constant",24824
+"262","Private","2015-16","All Current",39016
+"263","Private","2015-16","4 Year Current",39534
+"264","Private","2015-16","2 Year Current",24375
+"265","Private","2016-17","All Constant",40925
+"266","Private","2016-17","4 Year Constant",41468
+"267","Private","2016-17","2 Year Constant",24882
+"268","Private","2016-17","All Current",40925
+"269","Private","2016-17","4 Year Current",41468
+"270","Private","2016-17","2 Year Current",24882
