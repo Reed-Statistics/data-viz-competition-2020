@@ -1,0 +1,44 @@
+---
+title: "Data Viz"
+author: "Grayson White"
+date: "10/21/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(ggrepel)
+```
+
+```{r}
+salary_potential <- read_csv("data/salary_potential.csv")
+```
+
+```{r}
+salary_potential_or <- salary_potential %>%
+  filter(state_name == "Oregon") %>%
+  top_n(n = 10, wt = desc(rank))
+
+lacs <- salary_potential_or %>%
+  filter(name %in% c("Reed College", "Lewis & Clark College", "Willamette University"))
+
+my_plot <- ggplot(salary_potential_or, aes(x = mid_career_pay,
+                                y = stem_percent)) +
+  geom_point() +
+  theme_bw() +
+  geom_point(data = lacs, color = "steelblue") +
+  geom_text_repel(data = lacs,
+                  mapping = aes(label = name),
+                  color = "steelblue") +
+  labs(
+    title = "Mid Career Pay by Percentage of STEM degrees awarded",
+    subtitle = "LACs in Blue and Labeled"
+  )
+
+my_plot
+
+# ggsave(filename = "my_plot.png", plot = my_plot)
+```
+
+
