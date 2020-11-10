@@ -86,3 +86,6 @@ tuition_income <-
 |state            |character | State name |
 |category         |character | Group/Racial/Gender category |
 |enrollment       |double    | enrollment by category |
+
+## Sources
+The orignal data source is [Tuition Tracker](https://www.tuitiontracker.org/). The data cleaning was done by Jesse Mostipak and Thomas Mock for a Tidy Tuesday event in March 2020.
