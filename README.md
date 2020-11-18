@@ -4,12 +4,22 @@ This repository contains information for the data visualization contest at Reed 
 
 ## Winners
 
+### Best Overall
+#### By The Dashing Devils: Isabelle Caldwell, Alex Flowers, Lauren Rabe, and Olek Wojcik
+
+<p align="center">
+  <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/DashingDevils.png" />
+</p>
+Interactive Link: https://shiny.reed.edu/s/users/wojciko/datavizcomp/
+
+
 ### Most Visually Appealing
 #### By Gillian McGinnis
 
 <p align="center">
   <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/GillianMcGinnis.png" />
 </p>
+
 
 ### Most Informative
 #### By The Mlabbies: Simon Couch, Leila Shokat, Josh Yamamoto, and Ingrid Zoll
@@ -18,6 +28,7 @@ This repository contains information for the data visualization contest at Reed 
   <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/mlab_plot.jpg" />
 </p>
 
+
 ### Best Presentation
 #### By Simon Ahn and Amrita Sawhney
 
@@ -25,12 +36,29 @@ This repository contains information for the data visualization contest at Reed 
   <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/AmritaAndSimon.gif" />
 </p>
 
-### Best Overall
-#### By The Dashing Devils: Isabelle Caldwell, Alex Flowers, Lauren Rabe, and Olek Wojcik
+
+### Honorable Mentions
+
+#### By Nathan Senters
 
 <p align="center">
-  <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/DashingDevils.png" />
+  <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/NathanSenters.png" />
 </p>
+
+
+#### By Ali Taqi
+
+<p align="center">
+  <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/AliTaqi.jpg" />
+</p>
+
+
+#### By Sarah Wu and Harrison Nicholls
+
+<p align="center">
+  <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/SarahWu_HarrisonNicholls.png" />
+</p>
+
 
 ## Event Information
 
