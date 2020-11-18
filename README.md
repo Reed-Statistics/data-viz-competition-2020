@@ -1,4 +1,4 @@
-# Data visualization competition
+# Data Visualization Competition
 
 This repository contains information for the data visualization contest at Reed College in November 2020, organized by the Reed College Statistics and Computer Science departments
 
