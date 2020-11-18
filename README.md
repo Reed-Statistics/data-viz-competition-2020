@@ -1,6 +1,22 @@
 # Data visualization competition
 
-This repository contains data for the data visualization contest at Reed College in Fall 2020.  The `data` folder contains multiple csv files which can be used for the data visualization contest. The `example_ggplot.Rmd` file contains an example of using `ggplot2` and an extension (`ggrepel`) with the data.
+This repository contains information for the data visualization contest at Reed College in November 2020, organized by the Reed College Statistics and Computer Science departments
+
+## Winners
+
+### Most Visually Appealing
+
+### Most Informative
+
+### Best Presentation
+
+### Best Overall
+
+
+
+## Information
+
+The `data` folder contains multiple csv files which can be used for the data visualization contest. The `example_ggplot.Rmd` file contains an example of using `ggplot2` and an extension (`ggrepel`) with the data.
 
 To load the data into your RStudio session, you can run the following block of code:
 
@@ -28,9 +44,9 @@ tuition_income <-
   dplyr::select(-X1)
 ```
 
-## Data Dictionary
+### Data Dictionary
 
-### `tuition_cost.csv`
+#### `tuition_cost.csv`
 
 |variable             |class     |description |
 |:--------------------|:---------|:-----------|
