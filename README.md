@@ -53,13 +53,6 @@ Interactive Link: https://shiny.reed.edu/s/users/wojciko/datavizcomp/
 </p>
 
 
-#### By Sarah Wu and Harrison Nicholls
-
-<p align="center">
-  <img src="https://github.com/Reed-Statistics/data-viz-competition-2020/blob/main/winning%20plots/SarahWu_HarrisonNicholls.png" />
-</p>
-
-
 ## Event Information
 
 The `data` folder contains multiple csv files which can be used for the data visualization contest. The `example_ggplot.Rmd` file contains an example of using `ggplot2` and an extension (`ggrepel`) with the data.
